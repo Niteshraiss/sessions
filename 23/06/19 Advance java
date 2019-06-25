@@ -1,0 +1,7 @@
+list of drivers
+type 1	type	2 type	 3{odbc drivers}
+type 4{Thin driver}
+
+ <<<<<<<<<<<<<<<drivers for connectivity>>>>>>>>>>>>>>>>>>>>>>>>>
+ odbc(oracle database connecting)
+ jdbc(java database "")
